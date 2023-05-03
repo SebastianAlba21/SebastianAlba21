@@ -1,20 +1,28 @@
-# ¡Hola! 👋 Soy Sebastián Alba
+# Hello! 👋 I'm Sebastián Alba
 
-![React](https://miro.medium.com/v2/resize:fit:700/1*smuMxL6qzvl-OUxTfuxHUg.jpeg)
+![React](https://miro.medium.com/v2/resize:fit:1200/1*smuMxL6qzvl-OUxTfuxHUg.jpeg)
 
-## Acerca de mí
+## About me
 
-Soy un estudiante de último semestre de Ingeniería Multimedia en la Universidad Autónoma de Occidente. Me apasiona el desarrollo web y he estado trabajando con tecnologías como JavaScript, React, Next.js, Express, MongoDB y MySQL.
+I'm a final semester student of Multimedia Engineering at the Universidad Autónoma de Occidente.
+I'm passionate about web development and artificial intelligence.
 
-## Contacto
+```js
+    const = Sebastian = {
+        technologies: 'Web Development with Javascript',
+        skills: ['React', 'Next', 'Express', 'MongoDB', 'MySQL'],
+    }
+```
+
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/sebasti%C3%A1n-alba-117b7a210/
-- Correo electrónico: sebasttian2169@gmail.com
+- Email: sebasttian2169@gmail.com
 
-## Licencia
+## License
 
-Los proyectos que he publicado en GitHub están bajo la licencia MIT, lo que significa que son de código abierto y cualquier persona puede utilizarlos y modificarlos.
+The projects that I've published on GitHub are under the MIT license, which means they are open-source and anyone can use and modify them.
 
-## Contribuciones y colaboraciones
+## Contributions and Collaborations
 
-Si estás interesado en colaborar en alguno de mis proyectos, ¡sería genial! Siéntete libre de enviar un pull request o ponerte en contacto conmigo a través de mi correo electrónico.
+If you're interested in contributing to any of my projects, that would be great! Feel free to send a pull request or contact me via email.
