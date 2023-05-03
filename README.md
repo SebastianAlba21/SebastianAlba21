@@ -6,8 +6,6 @@
 
 :arrow_right: I'm a final semester student of Multimedia Engineering at the Universidad Autónoma de Occidente, I'm passionate about web development and artificial intelligence.
 
-
-
 ```js
 const Sebastian = {
   pronouns: "he" | "him",
@@ -24,8 +22,8 @@ const Sebastian = {
 
 # License
 
-The projects that I've published on GitHub are under the MIT license, which means they are open-source and anyone can use and modify them.
+➡️ The projects that I've published on GitHub are under the MIT license, which means they are open-source and anyone can use and modify them.
 
 # Contributions and Collaborations
 
-If you're interested in contributing to any of my projects, that would be great! Feel free to send a pull request or contact me via email.
+➡️ If you're interested in contributing to any of my projects, that would be great! Feel free to send a pull request or contact me via email.
