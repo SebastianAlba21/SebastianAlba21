@@ -6,6 +6,8 @@
 
 ## :arrow_right: I'm a final semester student of Multimedia Engineering at the Universidad Autónoma de Occidente, I'm passionate about web development and artificial intelligence.
 
+##
+
 ```js
 const Sebastian = {
   pronouns: "he" | "him",
