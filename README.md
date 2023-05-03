@@ -1,5 +1,7 @@
 # ¡Hola! 👋 Soy Sebastián Alba
 
+![Javascript](https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg)
+
 ## Acerca de mí
 
 Soy un estudiante de último semestre de Ingeniería Multimedia en la Universidad Autónoma de Occidente. Me apasiona el desarrollo web y he estado trabajando con tecnologías como JavaScript, React, Next.js, Express, MongoDB y MySQL.
