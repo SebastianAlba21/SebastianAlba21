@@ -1,23 +1,17 @@
-# ¡Hola! 👋 Soy [tu nombre completo]
+# ¡Hola! 👋 Soy Sebastián Alba
 
 ## Acerca de mí
 
-Soy un estudiante de último semestre de Ingeniería Multimedia en [tu universidad]. Me apasiona el desarrollo web y he estado trabajando con tecnologías como JavaScript, React, Next.js, Express, MongoDB y MySQL.
-
-## Proyectos destacados
-
-- [Nombre del proyecto](enlace al repositorio): Breve descripción del proyecto y tecnologías utilizadas.
-- [Nombre del proyecto](enlace al repositorio): Breve descripción del proyecto y tecnologías utilizadas.
-- [Nombre del proyecto](enlace al repositorio): Breve descripción del proyecto y tecnologías utilizadas.
+Soy un estudiante de último semestre de Ingeniería Multimedia en la Universidad Autónoma de Occidente. Me apasiona el desarrollo web y he estado trabajando con tecnologías como JavaScript, React, Next.js, Express, MongoDB y MySQL.
 
 ## Contacto
 
-- LinkedIn: [enlace a tu perfil de LinkedIn](enlace a tu perfil de LinkedIn)
-- Correo electrónico: [tu correo electrónico]
+- LinkedIn: https://www.linkedin.com/in/sebasti%C3%A1n-alba-117b7a210/
+- Correo electrónico: sebasttian2169@gmail.com
 
 ## Licencia
 
-Los proyectos que he publicado en GitHub están bajo la licencia [nombre de la licencia], lo que significa que son de código abierto y cualquier persona puede utilizarlos y modificarlos.
+Los proyectos que he publicado en GitHub están bajo la licencia MIT, lo que significa que son de código abierto y cualquier persona puede utilizarlos y modificarlos.
 
 ## Contribuciones y colaboraciones
 
