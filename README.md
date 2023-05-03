@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Sebastián Alba
 
-![Javascript](https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg)
+![React](https://miro.medium.com/v2/resize:fit:700/1*smuMxL6qzvl-OUxTfuxHUg.jpeg)
 
 ## Acerca de mí
 
