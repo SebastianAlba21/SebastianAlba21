@@ -1,9 +1,5 @@
 # ¡Hola! 👋 Soy Sebastián Alba
 
-## Mi imagen de perfil
-
-![Imagen de perfil](files\javascript.jpg)
-
 ## Acerca de mí
 
 Soy un estudiante de último semestre de Ingeniería Multimedia en la Universidad Autónoma de Occidente. Me apasiona el desarrollo web y he estado trabajando con tecnologías como JavaScript, React, Next.js, Express, MongoDB y MySQL.
