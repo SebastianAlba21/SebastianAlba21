@@ -4,9 +4,8 @@
 
 # About me
 
-## :arrow_right: I'm a final semester student of **Multimedia Engineering** at the Universidad Autónoma de Occidente,
-
-I'm passionate about **web development and artificial intelligence.**
+## :arrow_right: I'm a final semester student of Multimedia Engineering at the Universidad Autónoma de Occidente,
+## I'm passionate about **_web development and artificial intelligence._**
 
 ```js
 const Sebastian = {
